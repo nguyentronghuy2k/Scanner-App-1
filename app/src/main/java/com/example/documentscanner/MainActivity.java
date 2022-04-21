@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String savePath = directory.getPath();
                 long time = System.currentTimeMillis() / 1000;
-                String imgName = "Ảnh" + time + ".jpg";
+                String imgName = "Image" + time + ".jpg";
                 File imgFile = new File(savePath, imgName);
                 FileOutputStream out = new FileOutputStream(imgFile);
                 bitmap.compress(Bitmap.CompressFormat.JPEG, 100, out);
