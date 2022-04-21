@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Document Scanner App</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="fab_camera">Máy Ảnh</string>
+    <string name="fab_pdf">PDF File</string>
+    <string name="fab_gallery">Thư viện</string>
+    <string name="fab_collection">Bộ sưu tập</string>
+    <string name="title_activity_list_images">ListImages</string>
+    <string name="title_activity_show_image">ShowImage</string>
+    <string name="title_activity_list_pdf">ListPDF</string>
+    <string name="title_activity_show_pdf">ShowPDF</string>
+</resources>
